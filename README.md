@@ -26,7 +26,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpl.wordpress.org%2F&psig=AOvVaw2Dw6VmuXgDvk_5MiJ0E2om&ust=1673383827593000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOicydauu_wCFQAAAAAdAAAAABAE" alt="php" width="40" height="40"/>  </a> 
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" alt="wordpress" width="40" height="40"/>  </a> 
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gugisek&show_icons=true&locale=en" alt="gugisek" /></p>
