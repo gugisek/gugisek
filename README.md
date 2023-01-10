@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I like bikes (e-bikes)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://fb.com/gugisek gu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gugisek gu" height="30" width="40" /></a>
 <a href="https://instagram.com/gugisek_foto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gugisek_foto" height="30" width="40" /></a>
