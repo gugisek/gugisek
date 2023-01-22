@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustaw Sołdecki</h1>
 <h3 align="center">Student in Poland and as a hobby web developer</h3>
 
-- 🔭 I’m currently working on [praktyczny-informatyk.pl](https://github.com/gugisek/praktyczny-informatyk.pl)
+- 🔭 I’m currently working on [praktyczny-informatyk.pl](https://github.com/gugisek/praktyczny-informatyk.pl) and [pre-class.css](https://github.com/gugisek/pre-class.css)
 
 - 🌱 I’m currently learning **Next.js**
 
