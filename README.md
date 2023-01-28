@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [ui.gugisek.pl](ui.gugisek.pl)
+- 👨‍💻 All of my projects are available at [ui.gugisek.pl](http://ui.gugisek.pl)
 
 - 📫 How to reach me **gugisek@gmail.com**
 
