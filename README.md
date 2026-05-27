@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [mosiedle.pl](https://mosiedle.pl/)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently deepening my knowledge about **php**
 
 - 👨‍💻 All of my projects are available at [ui.gugisek.pl](http://ui.gugisek.pl)
 
